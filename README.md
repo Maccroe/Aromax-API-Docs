@@ -1,5 +1,5 @@
 # aromax-doc# aromax-docs  <div align="center">
-      <img src="api-banner." alt="Aromax API">
+      <img src="api-banner.png" alt="Aromax API">
       <h1>Aromax API Docs</h1>
       <p>Documentation of API's provided by Aromax Development</p>
     </div>
